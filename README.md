@@ -67,7 +67,7 @@ Foram gerados casos de teste utilizando diferentes técnicas:
 
 * Caroline Oliveira Neves
 * https://www.linkedin.com/in/caroline-oliveira-002856301/
-  https://web.dio.me/users/carolineves_042
+*  https://web.dio.me/users/carolineves_042
 
 ---
 *Este projeto foi desenvolvido como parte do programa educacional DIO.me.*

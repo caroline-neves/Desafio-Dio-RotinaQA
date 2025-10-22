@@ -14,15 +14,11 @@ O objetivo principal foi revisar e praticar atividades relativas ao papel do QA,
 * Criação de artefatos de teste (Mind-maps, Cenários e Casos de Teste.
 
 ## 📂 Estrutura do Repositório
-
-| Pasta/Arquivo | Conteúdo | Exigência do Desafio |
-| :--- | :--- | :--- |
-| `README.md` | Este arquivo, com a descrição do projeto e das entregas. | - |
-| `docs/` | Contém todos os artefatos de documentação solicitados em formato PDF. | Sim  |
-| `docs/fluxo_trabalho_e_bug.pdf` | Documento definindo o **Fluxo de Trabalho** e o **Ciclo de Vida do Bug**. | Sim |
-| `docs/user_stories.pdf` | Documento contendo no mínimo 2 **User Stories** e seus Épicos. | Sim (mínimo 2) |
-| `docs/documentos_teste.pdf` | Documento unificado com o Plano de Testes e os Casos de Teste. | Sim  |
-| `docs/mindmap_us001.pdf` | **Mind-map** de pelo menos 1 User Story. | Sim (mínimo 1) |
+ 📜 README.md
+ 📂/docs
+ ┣ 📄 fluxo_trabalho.pdf
+ ┣ 📄 fluxo_bug.pdf
+ ┗ 📄 fluxos_completos.pdf  ← (arquivo combinado com os dois fluxos)
 
 ---
 
@@ -39,7 +35,7 @@ O fluxo de trabalho de desenvolvimento (baseado em Scrum/JIRA) e o ciclo de vida
 
 ### **2. User Stories**
 
-Foram criadas no mínimo 2 User Stories para o projeto **SwagLabs Shopping**, seguindo o formato **"Como [persona], eu quero [funcionalidade], para que [valor]"** e contendo seus Critérios de Aceite.
+Foram criadas no mínimo 2 User Stories para o projeto **SwagLabs Shopping**, seguindo o formato **"Como [persona], eu quero [funcionalidade], para que [valor]"** e contendo seus Critérios de Aceite (em linguagem Gherkin).
 
 * **Exemplo:** US 001 - Adicionar Produto ao Carrinho.
 * **Exemplo:** US 002 - Remover Produto do Carrinho.

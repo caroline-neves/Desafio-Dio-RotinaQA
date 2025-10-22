@@ -14,11 +14,10 @@ O objetivo principal foi revisar e praticar atividades relativas ao papel do QA,
 * Criação de artefatos de teste (Mind-maps, Cenários e Casos de Teste.
 
 ## 📂 Estrutura do Repositório
- 📜 README.md
- 📂/docs
- ┣ 📄 fluxo_trabalho.pdf
- ┣ 📄 fluxo_bug.pdf
- ┗ 📄 fluxos_completos.pdf  ← (arquivo combinado com os dois fluxos)
+* ┣📜 README.md
+* ┣ 📄 fluxo_trabalho.pdf
+* ┣ 📄 fluxo_bug.pdf
+* ┗ 📄 fluxos_completos.pdf  ← (arquivo combinado com os dois fluxos)
 
 ---
 
